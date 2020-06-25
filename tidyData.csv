@@ -1,0 +1,46 @@
+Producto,Cantidad_archivos,Nivel,Estructura
+Tamino,Baja,5,Simple
+Oracle Mapeo OR,Baja,5,Simple
+dbXML,Baja,3,Simple
+XpSQL,Baja,1,Simple
+Oracle Clob,Baja,1,Simple
+Oracle Mapeo OR,Media,5,Simple
+Tamino,Media,5,Simple
+dbXML,Media,3,Simple
+XpSQL,Media,1,Simple
+Oracle Clob,Media,1,Simple
+Oracle Mapeo OR,Alta,5,Simple
+Tamino,Alta,5,Simple
+dbXML,Alta,3,Simple
+XpSQL,Alta,1,Simple
+Oracle Clob,Alta,1,Simple
+Tamino,Baja,5,Mediana
+dbXML,Baja,5,Mediana
+Oracle Mapeo OR,Baja,3,Mediana
+XpSQL,Baja,3,Mediana
+Oracle Clob,Baja,1,Mediana
+Tamino,Media,5,Mediana
+Oracle Mapeo OR,Media,3,Mediana
+dbXML,Media,3,Mediana
+XpSQL,Media,1,Mediana
+Oracle Clob,Media,1,Mediana
+Tamino,Alta,5,Mediana
+Oracle Mapeo OR,Alta,5,Mediana
+dbXML,Alta,3,Mediana
+XpSQL,Alta,1,Mediana
+Oracle Clob,Alta,1,Mediana
+Tamino,Baja,5,Compleja
+dbXML,Baja,5,Compleja
+Oracle Mapeo OR,Baja,3,Compleja
+XpSQL,Baja,3,Compleja
+Oracle Clob,Baja,1,Compleja
+Tamino,Media,5,Compleja
+Oracle Mapeo OR,Media,3,Compleja
+dbXML,Media,3,Compleja
+XpSQL,Media,1,Compleja
+Oracle Clob,Media,1,Compleja
+Oracle Mapeo OR,Alta,5,Compleja
+Tamino,Alta,5,Compleja
+dbXML,Alta,3,Compleja
+XpSQL,Alta,1,Compleja
+Oracle Clob,Alta,1,Compleja
