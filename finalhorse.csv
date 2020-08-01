@@ -1,5 +1,5 @@
 surgery?,Age,rectal_temperature,pulse,respiratory_rate,temperature_of_extremities,peripheral_pulse,mucous_membranes,capillary_refill_time,pain,peristalsis,abdominal_distension,nasogastric_tube,nasogastric_reflux,nasogastric_reflux_PH,rectal_examination,abdomen,packed_cell_volume,total_protein,abdominocentesis_appearance,abdomcentesis_total_protein,outcome,surgical_lesion?,type_of_lesion_1,type_of_lesion_2,type_of_lesion_3,cp_data
-2,1,38.5,66,28,3,3,3,2,5,4,4,2,2,4.7,3,5,45,8.4,2,30.196.078.431.372.500,2,2,11300,0,0,2
+2,1,38.5,66,28,3,3,3,2,5,4,4,2,2,4.7,3,5,45,8.4,2,30.1,2,2,11300,0,0,2
 1,1,39.2,88,20,2,2,4,1,3,4,2,2,2,4.7,4,2,50,85,2,2,2,2,2208,0,0,2
 2,1,38.3,40,24,1,1,3,1,3,3,1,2,2,4.7,1,1,33,6.7,2,3.0,1,2,0,0,0,1
 1,9,39.1,164,84,4,1,6,2,2,4,4,1,2,5,3,4,48,7.2,3,5.3,2,1,2208,0,0,1
